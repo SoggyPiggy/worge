@@ -9,6 +9,7 @@
 		"name"
 	],
 	"main": "index.js",
+	"repository": "https://github.com/SoggyPiggy/worge.git",
 	"author": "SoggyPiggy <soggypiggy@gmail.com>",
 	"license": "MIT",
 	"private": false
