@@ -1,0 +1,15 @@
+{
+	"name": "worge",
+	"version": "1.0.0",
+	"description": "Word + Merge = Worge",
+	"keywords": [
+		"worge",
+		"word",
+		"merge",
+		"name"
+	],
+	"main": "index.js",
+	"author": "SoggyPiggy <soggypiggy@gmail.com>",
+	"license": "MIT",
+	"private": false
+}
